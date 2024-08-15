@@ -17,9 +17,23 @@ Update (2024): The annotated data and the BERT trained model is now available
 ## Installation
 
 To set up the DANN model, follow these steps:
-# Clone the repository
+#### Clone the repository
 git clone https://github.com/yourusername/dann-ner.git
-# Navigate to the project directory
+#### Navigate to the project directory
 cd dann-ner
-# Install dependencies
+#### Install dependencies
 pip install -r requirements.txt
+
+## Workspace requirements
+
+Python 3.6+
+Pytorch 1.3+
+Huggingface Transformers (tested with version 2.9)
+Flair (tested with version 0.6)
+Matplotlib (tested with version 3.2)
+Numpy (tested with version 1.17.4)
+Pandas (tested with version 0.20)
+Seaborn (tested with version 0.9)
+Seqeval (tested with version 0.12)
+A Graphical Processing Unit (GPU)
+
