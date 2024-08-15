@@ -58,7 +58,7 @@ https://github.com/fastnlp/fastNLP (by NLP team at Fudan University)
 
 If you use this code, you can make reference to the article where the script was made available, as follows:
 
-Yao Ge, Mohammed Ali Al-Garadi, Abeed Sarker. "[Data Augmentation with Nearest Neighbor Classifier for Few-Shot Named Entity Recognition.](https://ebooks.iospress.nl/doi/10.3233/SHTI231053)" MEDINFO 2023—The Future Is Accessible, pages: 690-694. 2023. doi: 10.3233/SHTI231053. PMID: 38269897.
+*Yao Ge, Mohammed Ali Al-Garadi, Abeed Sarker. "[Data Augmentation with Nearest Neighbor Classifier for Few-Shot Named Entity Recognition.](https://ebooks.iospress.nl/doi/10.3233/SHTI231053)" MEDINFO 2023—The Future Is Accessible, pages: 690-694. 2023. doi: 10.3233/SHTI231053. PMID: 38269897.*
 
 ```bibtex
 @incollection{ge2024data,
