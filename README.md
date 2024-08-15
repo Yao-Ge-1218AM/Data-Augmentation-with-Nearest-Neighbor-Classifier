@@ -11,7 +11,9 @@ Update (2024): The annotated data and the BERT trained model is now available
 ## Features
 
 **Few-shot Learning:** Efficiently learns from small labeled datasets, crucial for tasks with limited annotated medical data.
+
 **Semantic Data Augmentation:** Enhances input token representations using similar words identified through cosine similarity.
+
 **Nearest Neighbor Classification:** Employs multiple distance metrics (e.g., Manhattan, Euclidean) to improve entity detection accuracy.
 
 ## Workspace requirements
