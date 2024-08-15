@@ -69,5 +69,4 @@ Yao Ge, Mohammed Ali Al-Garadi, Abeed Sarker. "Data Augmentation with Nearest Ne
   year={2024},
   publisher={IOS Press}
 }
-``
 
