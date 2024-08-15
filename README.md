@@ -20,24 +20,15 @@ Update (2024): The annotated data and the BERT trained model is now available
 
 • Python 3.7+  
 • Pytorch 2.2+  
-
-Huggingface Transformers (tested with version 3.1)
-
-fastNLP (tested with version 0.5)
-
-word2vec (tested with version 0.9.4)
-
-Numpy (tested with version 1.17.4)
-
-Pandas (tested with version 0.20)
-
-Seqeval (tested with version 0.12)
-
-spacy (tested with version 3.5)
-
-tqdm (tested with version 4.48)
-
-A Graphical Processing Unit (GPU)
+• Huggingface Transformers (tested with version 3.1)  
+• fastNLP (tested with version 0.5)  
+• word2vec (tested with version 0.9.4)  
+• Numpy (tested with version 1.17.4)  
+• Pandas (tested with version 0.20)  
+• Seqeval (tested with version 0.12)  
+• spacy (tested with version 3.5)  
+• tqdm (tested with version 4.48)  
+• A Graphical Processing Unit (GPU)
 
 ## Installation
 
