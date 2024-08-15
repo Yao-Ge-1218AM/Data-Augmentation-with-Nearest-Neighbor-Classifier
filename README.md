@@ -6,7 +6,7 @@ DANN (Data Augmentation with Nearest Neighbor Classifier) is a novel approach de
 
 Notebooks for medical named entity recognition with DANN model, used in the article "**Data Augmentation with Nearest Neighbor Classifier for Few-shot Named Entity Recognition**" which was published in the MedInfo 2022.
 
-Update (2024): The annotated data and the BERT trained model is now available
+Update (2024): The preprocessed data available
 
 ## Features
 
