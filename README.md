@@ -3,6 +3,7 @@
 ## Overview
 
 DANN (Data Augmentation with Nearest Neighbor Classifier) is a novel approach designed to enhance few-shot learning (FSL) in Named Entity Recognition (NER) within the biomedical domain. The model combines semantic data augmentation with a nearest neighbor classification strategy, addressing data sparsity issues commonly found in medical NLP tasks.
+
 Notebooks for medical named entity recognition with DANN model, used in the article "Data Augmentation with Nearest Neighbor Classifier for Few-shot Named Entity Recognition" which was published in the MedInfo 2022.
 
 Features
