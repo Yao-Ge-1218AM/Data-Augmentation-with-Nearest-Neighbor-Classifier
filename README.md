@@ -18,9 +18,8 @@ Update (2024): The annotated data and the BERT trained model is now available
 
 ## Workspace requirements
 
-Python 3.7+
-
-Pytorch 2.2+
+• Python 3.7+  
+• Pytorch 2.2+  
 
 Huggingface Transformers (tested with version 3.1)
 
