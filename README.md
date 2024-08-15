@@ -14,6 +14,20 @@ Update (2024): The annotated data and the BERT trained model is now available
 **Semantic Data Augmentation:** Enhances input token representations using similar words identified through cosine similarity.
 **Nearest Neighbor Classification:** Employs multiple distance metrics (e.g., Manhattan, Euclidean) to improve entity detection accuracy.
 
+## Workspace requirements
+
+Python 3.7+
+Pytorch 2.2+
+Huggingface Transformers (tested with version 3.1)
+fastNLP (tested with version 0.5)
+word2vec (tested with version 0.9.4)
+Numpy (tested with version 1.17.4)
+Pandas (tested with version 0.20)
+Seqeval (tested with version 0.12)
+spacy (tested with version 3.5)
+tqdm (tested with version 4.48)
+A Graphical Processing Unit (GPU)
+
 ## Installation
 
 To set up the DANN model, follow these steps:
@@ -27,23 +41,5 @@ cd dann-ner
 
 # Install dependencies
 pip install -r requirements.txt
-
-git clone https://github.com/yourusername/dann-ner.git
-#### Navigate to the project directory
-cd dann-ner
-#### Install dependencies
-pip install -r requirements.txt
-
-## Workspace requirements
-
-Python 3.6+
-Pytorch 1.3+
-Huggingface Transformers (tested with version 2.9)
-Flair (tested with version 0.6)
-Matplotlib (tested with version 3.2)
-Numpy (tested with version 1.17.4)
-Pandas (tested with version 0.20)
-Seaborn (tested with version 0.9)
-Seqeval (tested with version 0.12)
-A Graphical Processing Unit (GPU)
+```
 
