@@ -10,8 +10,16 @@ Update (2024): The annotated data and the BERT trained model is now available
 
 ## Features
 
-### Few-shot Learning: Efficiently learns from small labeled datasets, crucial for tasks with limited annotated medical data.
-### Semantic Data Augmentation: Enhances input token representations using similar words identified through cosine similarity.
-### Nearest Neighbor Classification: Employs multiple distance metrics (e.g., Manhattan, Euclidean) to improve entity detection accuracy.
+**Few-shot Learning:** Efficiently learns from small labeled datasets, crucial for tasks with limited annotated medical data.
+**Semantic Data Augmentation:** Enhances input token representations using similar words identified through cosine similarity.
+**Nearest Neighbor Classification:** Employs multiple distance metrics (e.g., Manhattan, Euclidean) to improve entity detection accuracy.
 
+## Installation
 
+To set up the DANN model, follow these steps:
+# Clone the repository
+git clone https://github.com/yourusername/dann-ner.git
+# Navigate to the project directory
+cd dann-ner
+# Install dependencies
+pip install -r requirements.txt
