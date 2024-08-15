@@ -18,6 +18,16 @@ Update (2024): The annotated data and the BERT trained model is now available
 
 To set up the DANN model, follow these steps:
 #### Clone the repository
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/dann-ner.git
+
+# Navigate to the project directory
+cd dann-ner
+
+# Install dependencies
+pip install -r requirements.txt
+
 git clone https://github.com/yourusername/dann-ner.git
 #### Navigate to the project directory
 cd dann-ner
