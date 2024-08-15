@@ -58,18 +58,16 @@ https://github.com/fastnlp/fastNLP (by NLP team at Fudan University)
 
 If you use this code, you can make reference to the article where the script was made available, as follows:
 
-A clinical trials corpus annotated with UMLS entities to enhance the access to Evidence-Based Medicine
-Leonardo Campillos-Llanos, Ana Valverde-Mateos, Adrián Capllonch-Carrión, Antonio Moreno-Sandoval
-BMC Medical Informatics and Decision Making 21, 69 (2021)
+Yao Ge, Mohammed Ali Al-Garadi, Abeed Sarker. "Data Augmentation with Nearest Neighbor Classifier for Few-Shot Named Entity Recognition." MEDINFO 2023—The Future Is Accessible, pages: 690-694. 2023. doi: 10.3233/SHTI231053. PMID: 38269897.
 
-``bash
-@article{campillosetal-midm2021,   
-title       = {A clinical trials corpus annotated with UMLS entities to enhance the access to Evidence-Based Medicine},  
-author       = {Campillos-Llanos, Leonardo and Valverde-Mateos, Ana and Capllonch-Carri{\'o}n, Adri{\'a}n and Moreno-Sandoval, Antonio},   
-journal = {BMC Medical Informatics and Decision Making},
-volume = {21},
-number = {69},
-year      = {2021}
+```bibtex
+@incollection{ge2024data,
+  title={Data Augmentation with Nearest Neighbor Classifier for Few-Shot Named Entity Recognition},
+  author={Ge, Yao and Al-Garadi, Mohammed Ali and Sarker, Abeed},
+  booktitle={MEDINFO 2023—The Future Is Accessible},
+  pages={690--694},
+  year={2024},
+  publisher={IOS Press}
 }
 ``
 
